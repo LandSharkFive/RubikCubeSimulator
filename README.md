@@ -9,14 +9,14 @@ counter-clockwise moves are lowercase.
 This project was a warmup project, before I write a 3D version of Rubik's cube. It's very simple code, not flashy or exciting, but it works.  It accurately models a real
 rubik's cube.  There are unit tests to prove this.
 
-<h3>To End Program</h3>
+<h3>To Quit Program</h3>
 
 The main program is a simple loop which reads the moves typed in by the user, executes the moves and display results.  To quit the program, press ENTER, sending an empty line.
 
 <h3>How It Works</h3>
 
-The moves are a series of swaps on the cube positions.  Each face has a clockwise move and a counter clockwise move.  Each cube has a position (0-53) has a color
-(Blue, Orange, Yellow, Red, Green and White) which moves from one position to another.
+The moves are a series of swaps on the cube positions.  Each face has a clockwise move and a counter clockwise move.  Each cube has a position (0-53) and has a color
+(Blue, Orange, Yellow, Red, Green and White).
 
 <h3>No Solver</h3>
 
