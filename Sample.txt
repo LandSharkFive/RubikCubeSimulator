@@ -1,0 +1,118 @@
+    OOO
+    OOO
+    OOO
+
+BBB RRR GGG
+BBB RRR GGG
+BBB RRR GGG
+
+    WWW
+    WWW
+    WWW
+
+    YYY
+    YYY
+    YYY
+
+F
+    OOO
+    OOO
+    BBB
+
+BBW RRR OGG
+BBW RRR OGG
+BBW RRR OGG
+
+    GGG
+    WWW
+    WWW
+
+    YYY
+    YYY
+    YYY
+
+f
+    OOO
+    OOO
+    OOO
+
+BBB RRR GGG
+BBB RRR GGG
+BBB RRR GGG
+
+    WWW
+    WWW
+    WWW
+
+    YYY
+    YYY
+    YYY
+
+Ff
+    OOO
+    OOO
+    OOO
+
+BBB RRR GGG
+BBB RRR GGG
+BBB RRR GGG
+
+    WWW
+    WWW
+    WWW
+
+    YYY
+    YYY
+    YYY
+
+FFFF
+    OOO
+    OOO
+    OOO
+
+BBB RRR GGG
+BBB RRR GGG
+BBB RRR GGG
+
+    WWW
+    WWW
+    WWW
+
+    YYY
+    YYY
+    YYY
+
+FDRLR
+    YOG
+    YOG
+    GBG
+
+YBB BRY RRR
+YBB ORY GGO
+YWW OBO GGO
+
+    BWB
+    RWO
+    RWO
+
+    WGW
+    WYR
+    WYR
+
+LFRfl
+    YOG
+    YOR
+    OGO
+
+YBB BOR WBW
+YBB ORY GGR
+YWW OBO GOR
+
+    BWB
+    RWR
+    RWR
+
+    GGY
+    WYG
+    WYG
+
