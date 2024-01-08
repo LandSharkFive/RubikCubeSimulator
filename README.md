@@ -20,7 +20,7 @@ The moves are a series of swaps on the cube positions.  Each face has a clockwis
 
 <h3>No Solver</h3>
 
-There is no solver.  I'll wait for the 3D version to write a solver.  The solver would be some type of tree search or graph search.  Somthing like DFS, A* or a Hueristic-based search.  Perhaps, a multi-step search algorithm.  It will take a few seconds to solve the cube.
+There is no solver.  I'll wait for the 3D version to write a solver.  The solver would be some type of tree search or graph search, like DFS, A* or a Hueristic-based search.  Perhaps, a multi-step search algorithm.  It will take a few seconds to solve the cube.
 
 
 
