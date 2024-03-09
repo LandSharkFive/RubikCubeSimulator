@@ -18,6 +18,10 @@ The main program is a simple loop which reads the moves typed in by the user, ex
 The moves are a series of swaps on the cube positions.  Each face has a clockwise move and a counter clockwise move.  Each cube has a position (0-53) and has a color
 (Blue, Orange, Yellow, Red, Green and White).
 
+## Examples
+
+See Sample.txt
+
 ## No Solver
 
 There is no solver.  I'll wait for the 3D version to write a solver.  The solver is a type of tree search or graph search, like DFS, A* or a Hueristic-based search.  It will take a few seconds to solve the cube.
