@@ -1,33 +1,40 @@
-# Rubik's Cube Simulator
+# Rubik's Cube Simulator (2D)
 
-This is a simple 2D version of Rubik's Cube.  It simulates the moves on a Rubik's cube. The user types in the moves and moves are done on the cube and a new cube is displayed
-on the screen.  The application is Console-Mode only.  The moves are F(ront), B(ack), L(eft), R(ight), (U)p and (D)own.  The clockwise moves are uppercase and the 
-counter-clockwise moves are lowercase.
+A lightweight, console-based Rubik's Cube engine designed for accuracy and logic testing. This project serves as a foundational "warmup" for a future 3D implementation, focusing on the underlying mathematical swaps required to model a cube.
 
-## Why Write This?
+## 🕹️ How to Use
 
-This project was a warmup project, before I write a 3D version of Rubik's cube. It's very simple code, not flashy or exciting, but it works.  It accurately models a real
-rubik's cube.  There are unit tests to prove this.
+The application runs in an input loop. Enter your moves as a string of characters and press **Enter** to see the updated state.
 
-## To Quit Program
+### Move Notation
+The simulator supports the 12 standard face rotations. **Uppercase** is clockwise; **lowercase** is counter-clockwise.
 
-The main program is a simple loop which reads the moves typed in by the user, executes the moves and display results.  To quit the program, press ENTER, sending an empty line.
+| Face  | Clockwise | Counter-Clockwise |
+| :---  | :---:     | :---:             |
+| Front | `F`       | `f`               |
+| Back  | `B`       | `b`               |
+| Left  | `L`       | `l`               |
+| Right | `R`       | `r`               |
+| Up    | `U`       | `u`               |
+| Down  | `D`       | `d`               |
 
-## How It Works
+**To Exit:** Press **Enter** on an empty line.
 
-The moves are a series of swaps on the cube positions.  Each face has a clockwise move and a counter clockwise move.  Each cube has a position (0-53) and has a color
-(Blue, Orange, Yellow, Red, Green and White).
+---
 
-## Examples
-
-See Sample.txt
-
-## No Solver
-
-There is no solver.  I'll wait for the 3D version to write a solver.  The solver is a type of tree search or graph search, like DFS, A* or a Hueristic-based search.  It will take a few seconds to solve the cube.
+## ⚙️ Technical Details
 
 
 
+* **Logic:** The cube is modeled as a series of index-based swaps across 54 positions (0-53).
+* **Colors:** Represented as Blue, Orange, Yellow, Red, Green, and White.
+* **Validation:** Includes a comprehensive suite of **Unit Tests** to ensure face rotations and edge-piece interactions accurately mirror a physical cube.
 
+## 🚀 Roadmap
+- [x] Functional 2D Console Engine
+- [x] Accurate Move Logic & Unit Tests
+- [ ] 3D Visualization Layer
+- [ ] Move Solver (Planned algorithms: A*, DFS, or Heuristic-based search)
 
-
+---
+*See **Sample.txt** for example move sequences.*
